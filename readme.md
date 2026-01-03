@@ -3,6 +3,7 @@
 A simple expense tracker built in Python to manage daily expenses.
 Supports adding, deleting, listing expenses and viewing summaries.
 Data is persisted using a JSON file.
+took reference from https://roadmap.sh/projects/expense-tracker
 
 ## Features
 - track your expense 
@@ -34,4 +35,5 @@ expense-tracker delete --id 2
 3. Delete Expense
 4. Total Summary
 5. Category Summary
+
 6. Exit
